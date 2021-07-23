@@ -55,7 +55,6 @@ fastlane/test_output
 fastlane/readme.md
 
 # Custom
-PetFinderApi.kt
 
 .DS_Store
 .idea/vcs.xml
